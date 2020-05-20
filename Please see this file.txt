@@ -1,0 +1,42 @@
+Featurestable have 71k data sets 
+data_pre_test_table have 11k data sets 
+data_pre_train_table have 60k data sets 
+
+
+
+in 22k dataset we have 
+1)The Actual distance 
+2)The response 
+3)Actualvspredictedresponse 
+4)ResiduePlot 
+5)The Training module for 22ksamples 
+6)Distance_real_approx_validationdata that contains success rate 
+
+
+in 71k dataset we have 
+1)The Actual distance 
+2)The response 
+3)Actualvspredictedresponse 
+4)ResiduePlot 
+5)The Training module for 22ksamples 
+6)Distance_real_approx_validationdata that contains success rate 
+
+
+In 10ktraining60ktesting we have 
+1)The Actual distance 
+2)The response 
+3)Actualvspredictedresponse 
+4)ResiduePlot 
+5)The Training module for 10ktraining60ktesting samples 
+6)Distance_real_approx_validationdata that contains success rate 
+
+
+In 60ktraining10ktesting we have 
+1)The Actual distance 
+2)The response 
+3)Actualvspredictedresponse 
+4)ResiduePlot 
+5)The Training module for 60ktraining10ktesting samples 
+6)Distance_real_approx_validationdata that contains success rate 
+
+
